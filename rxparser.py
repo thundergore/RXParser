@@ -6,8 +6,10 @@ def get_filename(filename):
     with open(filename) as f:
         return f.read()
 
-pattern = r'name="(.+).+(\<.)'
+pattern = r'.+\*(.+):.+\sDescription:(.+)'
 # other patterns to parse with:
+
+# Valid for space_marine_cat.txt:
 # 'name="(.+).+(\<.)' finds 2720 results e.g: name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">After this Warlord makes a charge move, you can select one enemy unit within 1&quot; of this Warlord and roll one D6; on a 2+ that enemy unit suffers 1 mortal wound.</
 # '.+type="rule"' finds e.g: common rules - angels of death & explode
 # 'description.+' finds 264 results e.g: Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">In your command phase, one model from your army with an Orbital comms array that has not been used this battle can use it to call in an orbital barrage. If it does, select one point on the battlefield and roll one D6 for each unit within D6&quot; of that point, subtracting 1 from the result if the unit being roll for is a CHARACTER. On a 4+, that unit suffers D3 mortal wounds</characteristic>
@@ -16,7 +18,11 @@ pattern = r'name="(.+).+(\<.)'
 # 'name=(".+?")\stypeId=".+"(>.+)<' finds 2720 results e.g: name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">When you give a model this Relic, select one bolt weapon (see Codex: Space Marines) that model is equipped with. When that model is chosen to shoot with, you can choose for that weapon to fire a quake bolt. If you do, you can only make one attack with that weapon, but if a hit is scored, the target is felled until the end of the turn and the attack sequence continues. When resolving an attack made with a melee weapon against a felled unit, add 1 to the hit roll.<
 # 'profile id=".+" name="(.+?)"' finds 654 results e.g: <profile id="17fb-6a10-ec0f-bcd5" name="Quake Bolts"
 # 'name=("[^\d{3}].+?")\shidden="false"\stypeId="' Finds 606 "typename=Unit" results
-subject = get_filename('space_marine_cat.txt')
+
+#Valid for Space Marie Extraction.txt:
+# '.+\*(.+):.+\sDescription:(.+)' Should find ability name as group 1 and decription text as group 2
+
+subject = get_filename('Space Marine Extraction.txt')
 regex = re.compile(pattern)
 
 ######## The six main tasks we're likely to have ########
