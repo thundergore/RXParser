@@ -71,7 +71,7 @@ if len(matches)>0:
 	    print ("--- Start of Match ---")
 	    #print ("Overall Match: ",match[0])
 	    print ("Group 1: ",match[1])
-	    #print ("Group 2: ",match[2])
+	    print ("Group 2: ",match[2])
 	    #print ("Group 3: ",match[3])
 	    print ("--- End of Match---\n")
 
