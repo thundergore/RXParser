@@ -1,654 +1,521 @@
-
-&nbsp;
-
-**++ Battalion Detachment 0CP (Imperium - Adeptus Astartes - White Scars) [97 PL, 10CP, 1,912pts] ++**
-
-**Rules:** *Angels of Death, Bolter Discipline, Shock Assault*
-
-&nbsp;
-
-**+ Configuration +**
-
-&nbsp;
-
-****Chapter Selection**:** White Scars
-
-. **Categories:** *Configuration*
-
-. **Rules:** *Lightning Assault*
-
-&nbsp;
-
-**Battle Size [12CP]:** 3. Strike Force (101-200 Total PL / 1001-2000 Points)
-
-. **Categories:** *Configuration*
-
-&nbsp;
-
-**Detachment CP**
-
-. **Categories:** *Configuration*
-
-&nbsp;
-
-**+ Stratagems +**
-
-&nbsp;
-
-**Relics of the Chapter [-1CP]:** Number of Extra Relics
-
-. **Categories:** *Stratagems*
-
-&nbsp;
-
-**+ HQ +**
-
-&nbsp;
-
-**Kor'sarro Khan [6 PL, 110pts]:** Bolt pistol, Frag & Krak grenades, Moonfang
-
-. **Categories:** *Imperium, Adeptus Astartes, White Scars, Character, Captain, Kor'sarro Khan, Infantry, Primaris, HQ*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Anzuq, For the Khan! (Aura), Iron Halo, Rites of Battle*, **Unit:** *Kor'sarro Khan*, **Weapon:** *Bolt pistol, Frag grenades, Krak grenades, Moonfang*
-
-**Profiles:**
-
-. **Anzuq:** Description:When this model is chosen to shoot with in your Shooting phase, you can select one enemy unit that is not a VEHICLE and is within 12" of this model. Roll one D6; on a 4+ that unit suffers 1 mortal wound.
-
-. **For the Khan! (Aura):** Description:While a friendly WHITE SCARS CORE or WHITE SCARS CHARACTER unit is within 6" of this model, each time a model in that unit makes a melee attack, if its unit made a charge move or performed a Heroic Intervention this turn, add 1 to that attack�s wound roll.
-
-. **Iron Halo:** Description:This model has a 4+ invulnerable save.
-
-. **Rites of Battle:** Description:While a friendly <CHAPTER> CORE unit is within 6" of this model, each time a model in that unit makes an attack, re-roll a hit roll of 1
-
-. **Kor'sarro Khan:** M:6"|WS:2+|BS:2+|S:4|T:4|W:6|A:5|Ld:9|Save:3+
-
-. **Bolt pistol:** Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-. **Moonfang:** Range:Melee|Type:Melee|S:+2|AP:-3|D:D3|Abilities:When resolving an attack made with this weapon against a CHARACTER unit, you can re-roll the wound roll and you can re-roll the damage roll.
-
-&nbsp;
-
-**Lieutenants [4 PL, -1CP, 75pts]**
-
-. **Categories:** *HQ*
-
-. **Abilities:** *Company Heroes*
-
-
-. **Lieutenant in Reiver Armour:** Combat knife, Frag & Krak grenades, Master-crafted special issue bolt pistol, Rites of War, Stratagem: Hero of the Chapter, The Vox Espiritum
-
-. . **Categories:** *Imperium, Adeptus Astartes, Character, Infantry, Phobos, Primaris, Lieutenant, Smokescreen, Reiver, Shock Grenade*
-
-. . **Rules:** *Angels of Death*
-
-. . **Abilities:** *Rites of War, Tactical Precision, Terror Troops (Aura), The Vox Espiritum*, **Unit:** *Lieutenant in Reiver Armour*, **Weapon:** *Combat knife, Frag grenades, Krak grenades, Master-crafted special issue bolt pistol*
-
-**Profiles:**
-
-. **Company Heroes:** Description:During deployment, all models in this unit must be set up at the same time, though they do not need to be set up in unit coherency. From that point onwards, each Lieutenant is treated as a separate unit.
-
-. **Rites of War:** Description:While a friendly <CHAPTER> CORE unit is within 6" of this WARLORD, that unit has the Objective Secured ability.
-
-. **Tactical Precision:** Description:While a friendly <CHAPTER> CORE unit is within 6" of this model, each time a model in that unit makes an attack, re-roll a wound roll of 1
-
-. **Terror Troops (Aura):** Description:While an enemy unit is within 3" of this unit, subtract 2 from the Leadership characteristic of models in that unit.
-
-. **The Vox Espiritum:** Description:Primaris model only. Add 3" to the range of the bearer's aura abilities (to a maximum of 9"). This does not increase the range of aura abilities that are psychic powers.
-
-. **Lieutenant in Reiver Armour:** M:6"|WS:2+|BS:2+|S:4|T:4|W:5|A:4|Ld:8|Save:3+
-
-. **Combat knife:** Range:Melee|Type:Melee|S:User|AP:0|D:1|Abilities:Each time the bearer fights, it can make 1 additional attack with this weapon.
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-. **Master-crafted special issue bolt pistol:** Range:12"|Type:Pistol 1|S:4|AP:-2|D:2|Abilities:-
-
-&nbsp;
-
-**Primaris Chaplain on Bike [7 PL, 150pts]:** 4. Mantra of Strength, 6. Canticle of Hate (Aura), Absolver Bolt Pistol, Benediction of Fury, Chapter Command:  Master of Sanctity, Crozius arcanum, Frag & Krak grenades, Litany of Hate, Strike off the Head, Twin Bolt rifle, Warlord, Wise Orator
-
-. **Categories:** *Adeptus Astartes, Character, Chaplain, Imperium, Infantry, Primaris, Priest, Biker, HQ, Master of Sanctity, Warlord*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *4. Mantra of Strength, 6. Canticle of Hate (Aura), Litany of Hate, Master of Sanctity, Rosarius, Spiritual Leaders, Strike off the Head, Wise Orator*, **Unit:** *Primaris Chaplain on Bike*, **Weapon:** *Absolver Bolt Pistol, Benediction of Fury, Crozius arcanum, Frag grenades, Krak grenades, Twin Bolt rifle*
-
-**Profiles:**
-
-. **4. Mantra of Strength:** Description:If this litany is inspiring:
-- Add 1 to this Priest's Attacks and Strength characteristics.
-- Add 1 to the Damage characteristic of melee weapons this Priest is equipped with.
-
-. **6. Canticle of Hate (Aura):** Description:If this litany is inspiring, then while a friendly <Chapter> Core or <Chapter> Character unit is within 6" of this Priest:
+###This extraction is from a totally incorrect battlescribe output###
+
++++ New Roster (Warhammer 40,000 9th Edition) [177 PL, 11CP, 3,483pts] +++
+
+++ Battalion Detachment 0CP (Imperium - Adeptus Astartes - White Scars) ++
+Rules: Angels of Death, Bolter Discipline, Shock Assault
+
++ Configuration +
+
+**Chapter Selection**: White Scars
+. Rules: Lightning Assault
+
+Battle Size: 3. Strike Force (101-200 Total PL / 1001-2000 Points)
+
+Detachment CP
+
++ Stratagems +
+
+Relics of the Chapter: Number of Extra Relics
+
++ HQ +
+
+Kor'sarro Khan
+. Rules: Angels of Death
+. Abilities: Anzuq, For the Khan! (Aura), Iron Halo, Rites of Battle, Unit: Kor'sarro Khan, Weapon: Bolt pistol, Frag grenades, Krak grenades, Moonfang
+Profiles:
+. Anzuq: Description:When this model is chosen to shoot with in your Shooting phase, you can select one enemy unit that is not a VEHICLE and is within 12" of this model. Roll one D6; on a 4+ that unit suffers 1 mortal wound.|
+. For the Khan! (Aura): Description:While a friendly WHITE SCARS CORE or WHITE SCARS CHARACTER unit is within 6" of this model, each time a model in that unit makes a melee attack, if its unit made a charge move or performed a Heroic Intervention this turn, add 1 to that attack’s wound roll.|
+. Iron Halo: Description:This model has a 4+ invulnerable save.|
+. Rites of Battle: Description:While a friendly <CHAPTER> CORE unit is within 6" of this model, each time a model in that unit makes an attack, re-roll a hit roll of 1|
+. Kor'sarro Khan: M:6"|WS:2+|BS:2+|S:4|T:4|W:6|A:5|Ld:9|Save:3+|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Moonfang: Range:Melee|Type:Melee|S:+2|AP:-3|D:D3|Abilities:When resolving an attack made with this weapon against a CHARACTER unit, you can re-roll the wound roll and you can re-roll the damage roll.|
+
+Librarian: 1) Blasting Gale, 2) Lightning Call, 3) Ride the Winds, 4) Storm-wreathed, 5) Spirits of Chogoris, 6) Eye of the Storm, Force sword
+. Rules: Angels of Death
+. Abilities: Psychic Hood, Psychic Power: 1) Blasting Gale, 2) Lightning Call, 3) Ride the Winds, 4) Storm-wreathed, 5) Spirits of Chogoris, 6) Eye of the Storm, Smite, Psyker: Psyker, Unit: Librarian, Weapon: Force sword, Frag grenades, Krak grenades
+Profiles:
+. Psychic Hood: Description:Each time a Deny the Witch test is taken for this model, if the unit attempting to manifest the psychic power is within 12" of this model, add 1 to that Deny the Witch test|
+. 1) Blasting Gale: Warp Charge:7|Range:18"|Details:Blasting Gale has a warp charge value of 7. If manifested, select one enemy unit within 18" of and visible to this psyker. Until the start of your next Psychic phase, that unit cannot Advance, and when a charge roll is made for it, roll one fewer D6, to a minimum of one D6 (typically, this will mean one D6 is rolled instead of 2D6).|
+. 2) Lightning Call: Warp Charge:7|Range:18"|Details:Lightning Call has a warp charge value of 7. If manifested, the closest enemy unit within 18" of this psyker suffers D3 mortal wounds. If that unit is not destroyed, roll one D6; on a 4+ that unit suffers 1 mortal wound. Then, if that unit is still not destroyed, roll one D6; on a 5+ that unit suffers 1 mortal wound. Then, if that unit is still not destroyed, roll one D6; on a 6 that unit suffers 1 mortal wound.|
+. 3) Ride the Winds: Warp Charge:6|Range:12"|Details:Ride the Winds has a warp charge value of 6. If manifested, select one friendly WHITE SCARSunit within 12" of this psyker. Until the start of your next Psychic phase, when an Advance roll or charge roll is made for that unit, add 2 to the result.|
+. 4) Storm-wreathed: Warp Charge:6|Range:12"|Details:Storm-wreathed has a warp charge value of 6. If manifested, select one friendly WHITE SCARSunit within 12" of this psyker. Until the start of your next Psychic phase, enemy units cannot fire Overwatch at that unit, and after that unit finishes a charge move, for each model in that unit, you can select one enemy unit within 1" of that model and roll one D6; on a 6, that enemy unit suffers 1 mortal wound.|
+. 5) Spirits of Chogoris: Warp Charge:6|Range:18"|Details:Spirits of Chogoris has a warp charge value of 6. If manifested, select one enemy unit within 18" of and visible to this psyker. Until the start of your next Psychic phase, subtract 1 from the Leadership characteristic of models in that unit, and when resolving an attack made by a model in that unit, subtract 1 from the hit roll|
+. 6) Eye of the Storm: Warp Charge:6|Range:12"|Details:Eye of the Storm has a warp charge value of 6. If manifested, roll one D6 for each enemy unit within 12" of this psyker, adding 1 to the result if that unit can FLY; on a 4+ that unit suffers 1 mortal wound.|
+. Smite: Warp Charge:5|Range:18"|Details:Smite has a warp charge value of 5. If manifested, the closest visible enemy unit within 18" of the psyker suffers D3 mortal wounds (pg 181). If the result of the Psychic test was more than 10 the target suffers D6 mortal wounds instead.|
+. Psyker: Cast:2|Deny:1|Powers Known:Smite & 2 Librarius|Other:-|
+. Librarian: M:6"|WS:3+|BS:3+|S:4|T:4|W:4|A:3|Ld:9|Save:3+|
+. Force sword: Range:Melee|Type:Melee|S:+1|AP:-3|D:D3|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+
+Lieutenants
+. Abilities: Company Heroes
+. Lieutenant in Reiver Armour: The Vox Espiritum
+. . Rules: Angels of Death
+. . Abilities: Tactical Precision, Terror Troops (Aura), The Vox Espiritum, Unit: Lieutenant in Reiver Armour, Weapon: Combat knife, Frag grenades, Krak grenades, Master-crafted special issue bolt pistol
+Profiles:
+. Company Heroes: Description:During deployment, all models in this unit must be set up at the same time, though they do not need to be set up in unit coherency. From that point onwards, each Lieutenant is treated as a separate unit.|
+. Tactical Precision: Description:While a friendly <CHAPTER> CORE unit is within 6" of this model, each time a model in that unit makes an attack, re-roll a wound roll of 1|
+. Terror Troops (Aura): Description:While an enemy unit is within 3" of this unit, subtract 2 from the Leadership characteristic of models in that unit. |
+. The Vox Espiritum: Description:Primaris model only. Add 3" to the range of the bearer's aura abilities (to a maximum of 9"). This does not increase the range of aura abilities that are psychic powers. |
+. Lieutenant in Reiver Armour: M:6"|WS:2+|BS:2+|S:4|T:4|W:5|A:4|Ld:8|Save:3+|
+. Combat knife: Range:Melee|Type:Melee|S:User|AP:0|D:1|Abilities:Each time the bearer fights, it can make 1 additional attack with this weapon.|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Master-crafted special issue bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:-2|D:2|Abilities:-|
+
+Primaris Chaplain on Bike: 1. Litany of Faith (Aura), 2. Catechism of Fire, 3. Exhortation of Rage, 4. Mantra of Strength, 5. Recitation of Focus, 6. Canticle of Hate (Aura), Benediction of Fury, Champion of Humanity, Chapter Command:  Master of Sanctity, Chogorian Storm, Deadly Hunter, Fear Made Manifest, Hunter's Instincts, Iron Resolve, Litany of Hate, Rites of War, Storm of Fire, The Imperium's Sword, Warlord, Wise Orator
+. Rules: Angels of Death
+. Abilities: 1. Litany of Faith (Aura), 2. Catechism of Fire, 3. Exhortation of Rage, 4. Mantra of Strength, 5. Recitation of Focus, 6. Canticle of Hate (Aura), Champion of Humanity, Chogorian Storm, Deadly Hunter, Fear Made Manifest (Aura), Hunter's Instincts, Iron Resolve, Litany of Hate, Master of Sanctity, Rites of War, Rosarius, Spiritual Leaders, Storm of Fire, The Imperium's Sword, Wise Orator, Unit: Primaris Chaplain on Bike, Weapon: Absolver Bolt Pistol, Benediction of Fury, Crozius arcanum, Frag grenades, Krak grenades, Twin Bolt rifle
+Profiles:
+. 1. Litany of Faith (Aura): Description:If this litany is inspiring, then while a friendly CORE or CHARACTER unit is within 6" of this PRIEST, each time a model that unit would lose a wound as the result of a mortal wound, roll one D6: on a 5+, that wound is not lost. |
+. 2. Catechism of Fire: Description:If this litany is inspiring, select one friendly CORE or CHARACTER unit is within 6" of this PRIEST. Each time a model in that unit makes a ranged attack against the closest eligible target, add 1 to that attack's wound roll. |
+. 3. Exhortation of Rage: Description:If this litany is inspiring, select one friendly CORE or CHARACTER unit within 6" of this PRIEST.  Each time a model in that unit makes a melee attack, add 1 to that attack's wound roll. |
+. 4. Mantra of Strength: Description:If this litany is inspiring:
+- Add 1 to this PRIEST'S Attacks and Strength characteristics.
+- Add 1 to the Damage characteristic of melee weapons this PRIEST is equipped with.  |
+. 5. Recitation of Focus: Description:If this litany is inspiring, select one friendly CORE or CHARACTER unit within 6" of this PRIEST.. Each time a model in that unit makes a ranged attack, add 1 to that attack's hit roll. |
+. 6. Canticle of Hate (Aura): Description:If this litany is inspiring, then while a friendly CORE or CHARACTER unit within 6" of this PRIEST:
 - Add 2 to charge rolls made for that unit. This is not cumulative with any other rule that adds to a unit's charge roll.
-- Each time a model in that unit makes a pile-in or consolidation move, it can move up to an additional 3". This is not cumulative with any other rule that increases the distance models can pile in or consolidate.
-
-. **Litany of Hate:** Description:If this litany is inspiring, then while a friendly Core or Character unit is within 6" of this Priest, each time a model in that unit makes a melee attack, you can re-roll the hit roll
-
-. **Master of Sanctity:** Description:This model knows one additional Litany from Litanies of Battle . In your Command phase, if this model is on the battlefield, it can recite on additional litany it knows that has not already been recited by a friendly model that turn.
-
-. **Rosarius:** Description:This model has a 4+ invulnerable save.
-
-. **Spiritual Leaders:** Description:While a friendly <CHAPTER> CORE unit is within 6" of this model, models in that unit can use this model's Leadership characteristic instead of their own
-
-. **Strike off the Head:** Description:If this litany is inspiring, then when resolving an attack made with a melee weapon by a model in a friendly WHITE SCARS unit within 6" of this model, you can re-roll the wound roll.
-
-. **Wise Orator:** Description:Each time this WARLORD recites a Litany, add 1 to the roll to see if it is inspiring.
-Each time this WARLORD is selected to use the Commanding Oratory stratagem, that stratagem costs 1 command point.
-
-. **Primaris Chaplain on Bike:** M:14"|WS:2+|BS:3+|S:4|T:5|W:7|A:4|Ld:9|Save:3+
-
-. **Absolver Bolt Pistol:** Range:18"|Type:Pistol 1|S:5|AP:-1|D:2|Abilities:-
-
-. **Benediction of Fury:** Range:Melee|Type:Melee|S:+2|AP:-2|D:3|Abilities:Each time an attack is made with this weapon, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage.
-
-. **Crozius arcanum:** Range:Melee|Type:Melee|S:+2|AP:-1|D:2|Abilities:-
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-. **Twin Bolt rifle:** Range:30"|Type:Rapid Fire 2|S:4|AP:-1|D:1|Abilities:
-
-&nbsp;
-
-**+ Troops +**
-
-&nbsp;
-
-**Assault Intercessor Squad [5 PL, 95pts]**
-
-. **Categories:** *Imperium, Adeptus Astartes, Primaris, Infantry, Assault Intercessor Squad, Core, Intercessors, Troops*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Combat Squads*
-
-
-. **4x Assault Intercessor:** 4x Astartes Chainsword, 4x Frag & Krak grenades, 4x Heavy Bolt Pistol
-
-. . **Unit:** *Assault Intercessor*, **Weapon:** *Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades*
-
-. **Assault Intercessor Sgt:** Astartes Chainsword, Frag & Krak grenades, Heavy Bolt Pistol
-
-. . **Unit:** *Assault Intercessor Sgt*, **Weapon:** *Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades*
-
-**Profiles:**
-
-. **Combat Squads:** Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.
-
-. **Assault Intercessor:** M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+
-
-. **Assault Intercessor Sgt:** M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+
-
-. **Astartes Chainsword:** Range:Melee|Type:Melee|S:User|AP:-1|D:1|Abilities:When the bearer fights, it makes 1 additional attack with this weapon.
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Heavy Bolt Pistol:** Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-&nbsp;
-
-**Intercessor Squad [5 PL, 100pts]:** Bolt rifle
-
-. **Categories:** *Adeptus Astartes, Imperium, Infantry, Intercessor Squad, Primaris, Core, Intercessors, Troops*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Combat Squads*, **Weapon:** *Bolt rifle*
-
-
-. **4x Intercessor:** 4x Bolt pistol, 4x Frag & Krak grenades
-
-. . **Unit:** *Intercessor*, **Weapon:** *Bolt pistol, Frag grenades, Krak grenades*
-
-. **Intercessor Sergeant:** Bolt pistol, Frag & Krak grenades
-
-. . **Unit:** *Intercessor Sergeant*, **Weapon:** *Bolt pistol, Frag grenades, Krak grenades*
-
-**Profiles:**
-
-. **Combat Squads:** Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.
-
-. **Intercessor:** M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+
-
-. **Intercessor Sergeant:** M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+
-
-. **Bolt pistol:** Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-
-
-. **Bolt rifle:** Range:30"|Type:Rapid Fire 1|S:4|AP:-1|D:1|Abilities:-
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-&nbsp;
-
-**Intercessor Squad [5 PL, 100pts]:** Bolt rifle
-
-. **Categories:** *Adeptus Astartes, Imperium, Infantry, Intercessor Squad, Primaris, Core, Intercessors, Troops*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Combat Squads*, **Weapon:** *Bolt rifle*
-
-
-. **4x Intercessor:** 4x Bolt pistol, 4x Frag & Krak grenades
-
-. . **Unit:** *Intercessor*, **Weapon:** *Bolt pistol, Frag grenades, Krak grenades*
-
-. **Intercessor Sergeant:** Bolt pistol, Frag & Krak grenades
-
-. . **Unit:** *Intercessor Sergeant*, **Weapon:** *Bolt pistol, Frag grenades, Krak grenades*
-
-**Profiles:**
-
-. **Combat Squads:** Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.
-
-. **Intercessor:** M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+
-
-. **Intercessor Sergeant:** M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+
-
-. **Bolt pistol:** Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-
-
-. **Bolt rifle:** Range:30"|Type:Rapid Fire 1|S:4|AP:-1|D:1|Abilities:-
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-&nbsp;
-
-**+ Elites +**
-
-&nbsp;
-
-**Bladeguard Veteran Squad [10 PL, 180pts]**
-
-. **Categories:** *Imperium, Adeptus Astartes, Infantry, Bladeguard, Primaris, Bladeguard Veteran Squad, Core, Elites*
-
-. **Rules:** *Angels of Death*
-
-
-. **4x Bladeguard Veteran:** 4x Frag & Krak grenades, 4x Heavy Bolt Pistol, 4x Master-crafted Power Sword, 4x Storm Shield
-
-. . **Abilities:** *Storm shield*, **Unit:** *Bladeguard Veteran*, **Weapon:** *Frag grenades, Heavy Bolt Pistol, Krak grenades, Master-crafted Power Sword*
-
-. **Bladeguard Veteran Sgt:** Frag & Krak grenades, Master-crafted Power Sword, Neo-volkite pistol, Storm Shield
-
-. . **Abilities:** *Storm shield*, **Unit:** *Bladeguard Veteran Sgt*, **Weapon:** *Frag grenades, Krak grenades, Master-crafted Power Sword, Neo-volkite pistol*
-
-**Profiles:**
-
-. **Storm shield:** Description:The bearer has a 4+ invulnerable save. In addition, add 1 to armour saving throws made for the bearer.
-
-. **Bladeguard Veteran:** M:6"|WS:3+|BS:3+|S:4|T:4|W:3|A:3|Ld:8|Save:3+
-
-. **Bladeguard Veteran Sgt:** M:6"|WS:3+|BS:3+|S:4|T:4|W:3|A:4|Ld:9|Save:3+
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Heavy Bolt Pistol:** Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-. **Master-crafted Power Sword:** Range:Melee|Type:Melee|S:+1|AP:-3|D:2|Abilities:-
-
-. **Neo-volkite pistol:** Range:15"|Type:Pistol 2|S:5|AP:0|D:2|Abilities:Each unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any other damage
-
-&nbsp;
-
-**Invictor Tactical Warsuit [8 PL, 160pts]:** Fragstorm Grenade Launcher, Heavy bolter, Incendium cannon, Invictor fist, Twin ironhail heavy stubber
-
-. **Categories:** *Vehicle, Elites, Adeptus Astartes, Imperium, Invictor Tactical Warsuit*
-
-. **Rules:** *Angels of Death, Explodes (6"/D3)*
-
-. **Abilities:** *Concealed Positions*, **Unit:** *Invictor Tactical Warsuit*, **Weapon:** *Fragstorm Grenade Launcher, Heavy bolter, Incendium cannon, Invictor fist, Twin ironhail heavy stubber*, **Wound Track:** *Invictor Tactical Warsuit 1, Invictor Tactical Warsuit 2, Invictor Tactical Warsuit 3*
-
-**Profiles:**
-
-. **Concealed Positions:** Description:During Deployment when you set up this unit, if every model in this unit has this ability then it can be set up anywhere on the battlefield that is more than 9" away from the enemy deployment zone  and any enemy models
-
-. **Invictor Tactical Warsuit:** M:*|WS:*|BS:*|S:7|T:6|W:13|A:4|Ld:8|Save:3+
-
-. **Fragstorm Grenade Launcher:** Range:18"|Type:Assault D6|S:4|AP:0|D:1|Abilities:Blast
-
-. **Heavy bolter:** Range:36"|Type:Heavy 3|S:5|AP:-1|D:2|Abilities:-
-
-. **Incendium cannon:** Range:12"|Type:Heavy 2D6|S:5|AP:-1|D:1|Abilities:When resolving an attack made with this weapon, do not make a hit roll: it automatically scores a hit.
-
-. **Invictor fist:** Range:Melee|Type:Melee|S:x2|AP:-3|D:3|Abilities:
-
-. **Twin ironhail heavy stubber:** Range:36"|Type:Heavy 8|S:4|AP:-1|D:1|Abilities:-
-
-. **Invictor Tactical Warsuit 1:** Remaining W:7-13+|Characteristic 1:10"|Characteristic 2:3+|Characteristic 3:3+
-
-. **Invictor Tactical Warsuit 2:** Remaining W:4-6|Characteristic 1:8"|Characteristic 2:4+|Characteristic 3:4+
-
-. **Invictor Tactical Warsuit 3:** Remaining W:1-3|Characteristic 1:6"|Characteristic 2:5+|Characteristic 3:5+
-
-&nbsp;
-
-**Redemptor Dreadnought [9 PL, 175pts]:** 2x Fragstorm Grenade Launchers, Heavy flamer, Heavy Onslaught Gatling Cannon, Redemptor Fist
-
-. **Categories:** *Adeptus Astartes, Dreadnought, Imperium, Redemptor Dreadnought, Vehicle, Core, Elites*
-
-. **Rules:** *Angels of Death, Explodes (6"/D3)*
-
-. **Abilities:** *Duty Eternal*, **Unit:** *Redemptor Dreadnought*, **Weapon:** *Fragstorm Grenade Launcher, Heavy flamer, Heavy Onslaught Gatling Cannon, Redemptor Fist*, **Wound Track:** *Redemptor Dreadnought 1, Redemptor Dreadnought 2, Redemptor Dreadnought 3*
-
-**Profiles:**
-
-. **Duty Eternal:** Description:Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack(to a minimum of 1)
-
-. **Redemptor Dreadnought:** M:*|WS:*|BS:*|S:7|T:7|W:13|A:4|Ld:8|Save:3+
-
-. **Fragstorm Grenade Launcher:** Range:18"|Type:Assault D6|S:4|AP:0|D:1|Abilities:Blast
-
-. **Heavy flamer:** Range:12"|Type:Heavy D6|S:5|AP:-1|D:1|Abilities:Each time an attack is made with this weapon, that attack automatically hits the target.
-
-. **Heavy Onslaught Gatling Cannon:** Range:30"|Type:Heavy 12|S:6|AP:-1|D:1|Abilities:-
-
-. **Redemptor Fist:** Range:Melee|Type:Melee|S:x2|AP:-3|D:D3+3|Abilities:-
-
-. **Redemptor Dreadnought 1:** Remaining W:7-13+|Characteristic 1:8"|Characteristic 2:3+|Characteristic 3:3+
-
-. **Redemptor Dreadnought 2:** Remaining W:4-6|Characteristic 1:6"|Characteristic 2:4+|Characteristic 3:4+
-
-. **Redemptor Dreadnought 3:** Remaining W:1-3|Characteristic 1:4"|Characteristic 2:5+|Characteristic 3:5+
-
-&nbsp;
-
-**Vanguard Veteran Squad [7 PL, 147pts]:** Jump Pack
-
-. **Categories:** *Adeptus Astartes, Infantry, Imperium, Vanguard Veteran Squad, Core, Melta Bombs, Elites, Fly, Jump Pack*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Combat Squads, Death From Above*, **Unit:** *Space Marine Veteran (Jump Pack), Veteran Sergeant (Jump Pack)*
-
-
-. **Space Marine Veteran:** Frag & Krak grenades, Lightning Claw, Storm shield
-
-. . **Abilities:** *Storm shield*, **Weapon:** *Frag grenades, Krak grenades, Lightning claw*
-
-. **Space Marine Veteran:** Frag & Krak grenades, Lightning Claw, Storm shield
-
-. . **Abilities:** *Storm shield*, **Weapon:** *Frag grenades, Krak grenades, Lightning claw*
-
-. **Space Marine Veteran:** Frag & Krak grenades, 2x Lightning Claw
-
-. . **Weapon:** *Frag grenades, Krak grenades, Lightning claw*
-
-. **Space Marine Veteran:** Frag & Krak grenades, 2x Lightning Claw
-
-. . **Weapon:** *Frag grenades, Krak grenades, Lightning claw*
-
-. **Veteran Sergeant:** Frag & Krak grenades, Storm shield, Thunder hammer
-
-. . **Abilities:** *Storm shield*, **Weapon:** *Frag grenades, Krak grenades, Thunder hammer*
-
-**Profiles:**
-
-. **Combat Squads:** Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.
-
-. **Death From Above:** Description:During deployment, if every model in this unit has this ability, then you can set up this unit high in the skies instead of setting it up on the battlefield. If you do, then in the Reinforcements step of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" away from enemy models.
-
-. **Storm shield:** Description:The bearer has a 4+ invulnerable save. In addition, add 1 to armour saving throws made for the bearer.
-
-. **Space Marine Veteran (Jump Pack):** M:12"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:8|Save:3+
-
-. **Veteran Sergeant (Jump Pack):** M:12"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:9|Save:3+
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-. **Lightning claw:** Range:Melee|Type:Melee|S:User|AP:-2|D:1|Abilities:Each time the bearer fights, it makes 1 additional attack with this weapon. Each time an attack is made with this weapon, you can re-roll the wound roll.
-
-. **Thunder hammer:** Range:Melee|Type:Melee|S:x2|AP:-2|D:3|Abilities:Each time an attack roll is made with this weapon, subtract 1 from the attack's hit roll
-
-&nbsp;
-
-**+ Fast Attack +**
-
-&nbsp;
-
-**Outrider Squad [6 PL, 135pts]**
-
-. **Categories:** *Imperium, Adeptus Astartes, Biker, Primaris, Outrider Squad, Core, Fast Attack*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Devastating Charge, Turbo-boost*
-
-
-. **2x Outrider:** 2x Astartes Chainsword, 2x Frag & Krak grenades, 2x Heavy Bolt Pistol, 2x Twin Bolt rifle
-
-. . **Unit:** *Outrider*, **Weapon:** *Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades, Twin Bolt rifle*
-
-. **Outrider Sgt:** Astartes Chainsword, Frag & Krak grenades, Heavy Bolt Pistol, Twin Bolt rifle
-
-. . **Unit:** *Outrider Sgt*, **Weapon:** *Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades, Twin Bolt rifle*
-
-**Profiles:**
-
-. **Devastating Charge:** Description:Each time this unit fights, if it made a charge move this turn, then until that fight is resolved, add 2 to the Attacks characteristic of models in this unit
-
-. **Turbo-boost:** Description:When this model Advances, add 6" to its Move characteristic for that Movement phase instead of rolling a dice.
-
-. **Outrider:** M:14"|WS:3+|BS:3+|S:4|T:5|W:4|A:2|Ld:7|Save:3+
-
-. **Outrider Sgt:** M:14"|WS:3+|BS:3+|S:4|T:5|W:4|A:3|Ld:8|Save:3+
-
-. **Astartes Chainsword:** Range:Melee|Type:Melee|S:User|AP:-1|D:1|Abilities:When the bearer fights, it makes 1 additional attack with this weapon.
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Heavy Bolt Pistol:** Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-. **Twin Bolt rifle:** Range:30"|Type:Rapid Fire 2|S:4|AP:-1|D:1|Abilities:
-
-&nbsp;
-
-**Outrider Squad [6 PL, 135pts]**
-
-. **Categories:** *Imperium, Adeptus Astartes, Biker, Primaris, Outrider Squad, Core, Fast Attack*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Devastating Charge, Turbo-boost*
-
-
-. **2x Outrider:** 2x Astartes Chainsword, 2x Frag & Krak grenades, 2x Heavy Bolt Pistol, 2x Twin Bolt rifle
-
-. . **Unit:** *Outrider*, **Weapon:** *Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades, Twin Bolt rifle*
-
-. **Outrider Sgt:** Astartes Chainsword, Frag & Krak grenades, Heavy Bolt Pistol, Twin Bolt rifle
-
-. . **Unit:** *Outrider Sgt*, **Weapon:** *Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades, Twin Bolt rifle*
-
-**Profiles:**
-
-. **Devastating Charge:** Description:Each time this unit fights, if it made a charge move this turn, then until that fight is resolved, add 2 to the Attacks characteristic of models in this unit
-
-. **Turbo-boost:** Description:When this model Advances, add 6" to its Move characteristic for that Movement phase instead of rolling a dice.
-
-. **Outrider:** M:14"|WS:3+|BS:3+|S:4|T:5|W:4|A:2|Ld:7|Save:3+
-
-. **Outrider Sgt:** M:14"|WS:3+|BS:3+|S:4|T:5|W:4|A:3|Ld:8|Save:3+
-
-. **Astartes Chainsword:** Range:Melee|Type:Melee|S:User|AP:-1|D:1|Abilities:When the bearer fights, it makes 1 additional attack with this weapon.
-
-. **Frag grenades:** Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.
-
-. **Heavy Bolt Pistol:** Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-
-
-. **Krak grenades:** Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-
-
-. **Twin Bolt rifle:** Range:30"|Type:Rapid Fire 2|S:4|AP:-1|D:1|Abilities:
-
-&nbsp;
-
-**+ Heavy Support +**
-
-&nbsp;
-
-**Eradicator Squad [6 PL, 120pts]:** Melta rifle
-
-. **Categories:** *Primaris, Mk X Gravis, Infantry, Imperium, Adeptus Astartes, Eradicator Squad, Core, Heavy Support*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Total Obliteration*, **Weapon:** *Melta rifle*
-
-
-. **2x Eradicator:** 2x Bolt pistol
-
-. . **Unit:** *Eradicator*, **Weapon:** *Bolt pistol*
-
-. **Eradicator Sgt:** Bolt pistol
-
-. . **Unit:** *Eradicator Sgt*, **Weapon:** *Bolt pistol*
-
-**Profiles:**
-
-. **Total Obliteration:** Description:In your shooting phase, you can declare this unit will only shoot at a single target. If you do, select one target unit;  models in this unit can shoot twice this phase, but they can only target that enemy unit.
-
-. **Eradicator:** M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:2|Ld:7|Save:3+
-
-. **Eradicator Sgt:** M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:3|Ld:8|Save:3+
-
-. **Bolt pistol:** Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-
-
-. **Melta rifle:** Range:24"|Type:Assault 1|S:8|AP:-4|D:D6|Abilities:Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2
-
-&nbsp;
-
-**Eradicator Squad [6 PL, 120pts]:** Melta rifle
-
-. **Categories:** *Primaris, Mk X Gravis, Infantry, Imperium, Adeptus Astartes, Eradicator Squad, Core, Heavy Support*
-
-. **Rules:** *Angels of Death*
-
-. **Abilities:** *Total Obliteration*, **Weapon:** *Melta rifle*
-
-
-. **2x Eradicator:** 2x Bolt pistol
-
-. . **Unit:** *Eradicator*, **Weapon:** *Bolt pistol*
-
-. **Eradicator Sgt:** Bolt pistol
-
-. . **Unit:** *Eradicator Sgt*, **Weapon:** *Bolt pistol*
-
-**Profiles:**
-
-. **Total Obliteration:** Description:In your shooting phase, you can declare this unit will only shoot at a single target. If you do, select one target unit;  models in this unit can shoot twice this phase, but they can only target that enemy unit.
-
-. **Eradicator:** M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:2|Ld:7|Save:3+
-
-. **Eradicator Sgt:** M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:3|Ld:8|Save:3+
-
-. **Bolt pistol:** Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-
-
-. **Melta rifle:** Range:24"|Type:Assault 1|S:8|AP:-4|D:D6|Abilities:Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2
-
-&nbsp;
-
-**+ Dedicated Transport +**
-
-&nbsp;
-
-**Impulsor [7 PL, 110pts]:** 2x Storm Bolters
-
-. **Categories:** *Dedicated Transport, Adeptus Astartes, Vehicle, Transport, Imperium, Repulsor Field*
-
-. **Rules:** *Angels of Death, Explodes (6"/D3)*
-
-. **Abilities:** *Assault Vehicle, Hover Tank*, **Transport:** *Transport*, **Unit:** *Impulsor*, **Weapon:** *Storm bolter*, **Wound Track:** *Impulsor Wound Track 1, Impulsor Wound Track 2, Impulsor Wound Track 3*
-
-**Profiles:**
-
-. **Assault Vehicle:** Description:Units embarked within this transport can disembark even if it has made  a Normal Move this phase. Any unit that disembarks after this transport has made a Normal Move cannot charge this turn.
-
-. **Hover Tank:** Description:Distances and ranges are always measured to and from this model's hull even though it has a base.
-
-. **Transport:** Capacity:This model has a transport capacity of 6 <CHAPTER> PRIMARIS INFANTRY models. It cannot transport JUMP PACK or MK X GRAVIS models.
-
-. **Impulsor:** M:*|WS:6+|BS:*|S:7|T:7|W:11|A:*|Ld:8|Save:3+
-
-. **Storm bolter:** Range:24"|Type:Rapid Fire 2|S:4|AP:0|D:1|Abilities:-
-
-. **Impulsor Wound Track 1:** Remaining W:6+|Characteristic 1:14"|Characteristic 2:3+|Characteristic 3:3
-
-. **Impulsor Wound Track 2:** Remaining W:3-5|Characteristic 1:7"|Characteristic 2:4+|Characteristic 3:D3
-
-. **Impulsor Wound Track 3:** Remaining W:1-2|Characteristic 1:4"|Characteristic 2:5+|Characteristic 3:1
-
-&nbsp;
-
-**++ Total: [97 PL, 10CP, 1,912pts] ++**
-
-&nbsp;
-
-**++ Roster Rules ++**
-
-
-. **Angels of Death:** This unit has the following abilities: And They Shall Know No Fear, Bolter Discipline, Shock Assault and Combat Doctrines.
-
-. **Bolter Discipline:** Instead of following the normal rules for Rapid Fire weapons, models in this unit shooting Rapid Fire bolt weapons make double the number of attacks if any of the following apply
+- Each time a model in that unit makes a pile-in or consolidation move, it can move up to an additional 3". This is not cumulative with any other rule that increases the distance models can pile in or consolidate. |
+. Champion of Humanity: Description:Each time this WARLORD is within engagement range of any enemy CHARACTER units, then until that fight is resolved, add 1 to this WARLORD's Attacks characteristic
+Each time this WARLORD makes a melee attack against a CHARACTER unit, add 1 to that attacks hit roll and wound roll|
+. Chogorian Storm: Description:If this Warlord makes a charge move or performs a Heroic Intervention, add D3 to their Attacks characteristic until the end of the turn.|
+. Deadly Hunter: Description:After this Warlord makes a charge move, you can select one enemy unit within 1" of this Warlord and roll one D6; on a 2+ that enemy unit suffers 1 mortal wound.|
+. Fear Made Manifest (Aura): Description:While an enemy unit within 6" of this WARLORD
+Subtract 1 from the Leadership characteristic of models in that unit
+Each time a Combat Attrition test is taken for that unit, subtract 1 from that Combat Attrition test|
+. Hunter's Instincts: Description:When resolving an attack made by this Warlord against an enemy MONSTER or VEHICLE unit, add 1 to the hit roll and wound roll.|
+. Iron Resolve: Description:Add 1 to the Wounds characteristic of your warlord.
+Each time your warlord loses a wound, roll one D6, on a 6 that wound is not lost|
+. Litany of Hate: Description:If this litany is inspiring, then while a friendly Core or Character unit is within 6" of this Priest, each time a model in that unit makes a melee attack, you can re-roll the hit roll|
+. Master of Sanctity: Description:This model knows one additional Litany from Litanies of Battle . In your Command phase, if this model is on the battlefield, it can recite on additional litany it knows that has not already been recited by a friendly model that turn.  |
+. Rites of War: Description:While a friendly <CHAPTER> CORE or <CHAPTER> CHARACTER unit is within 6" of this WARLORD, that unit has the Objective Secured ability. |
+. Rosarius: Description:This model has a 4+ invulnerable save.|
+. Spiritual Leaders: Description:While a friendly <CHAPTER> CORE unit is within 6" of this model, models in that unit can use this model's Leadership characteristic instead of their own|
+. Storm of Fire: Description:While a friendly <CHAPTER> CORE is within 6" of this WARLORD, each time a model in that unit makes a ranged attack, on an unmodified wound roll of 6, improve the armour penetration characteristic of that attack by 1|
+. The Imperium's Sword: Description:You can re-roll charge rolls made for this WARLORD
+Each time this WARLORD fights, if it made a charge move or performed a Heroic Intervention this turn, then until that fight phase is resolved, add 1 to its Strength  and Attacks characteristics |
+. Wise Orator: Description:Each time this WARLORD recites a Litany, add 1 to the roll to see if it is inspiring.
+Each time this WARLORD is selected to use the Commanding Oratory stratagem, that stratagem costs 1 command point. |
+. Primaris Chaplain on Bike: M:14"|WS:2+|BS:3+|S:4|T:5|W:7|A:4|Ld:9|Save:3+|
+. Absolver Bolt Pistol: Range:18"|Type:Pistol 1|S:5|AP:-1|D:2|Abilities:-|
+. Benediction of Fury: Range:Melee|Type:Melee|S:+2|AP:-2|D:3|Abilities:Each time an attack is made with this weapon, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage. |
+. Crozius arcanum: Range:Melee|Type:Melee|S:+2|AP:-1|D:2|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Twin Bolt rifle: Range:30"|Type:Rapid Fire 2|S:4|AP:-1|D:1|Abilities:|
+
+Primaris Chapter Master: Chapter Command:  Chapter Master, Plume of the Plainsrunner, The Vox Espiritum
+. Rules: Angels of Death
+. Abilities: Chapter Master, Iron Halo, Plume of the Plainsrunner, Rites of Battle, The Vox Espiritum, Unit: Primaris Chapter Master (Chapter Command:  Chapter Master), Weapon: Frag grenades, Krak grenades
+. Heavy bolt pistol, Master-crafted power sword and Relic shield: Master-crafted Power Sword, Relic Shield
+. . Abilities: Relic Shield, Weapon: Heavy Bolt Pistol, Master-crafted Power Sword
+Profiles:
+. Chapter Master: Description:In your Command phase select one friendly <CHAPTER> CORE or <CHAPTER> CHARACTER within 6" of this model. Until the start of your next Command phase, each time a model in that unit makes an attack, you can re-roll the hit roll. |
+. Iron Halo: Description:This model has a 4+ invulnerable save.|
+. Plume of the Plainsrunner: Description:The bearer has the following ability: Plume of the Plainsrunner (Aura): While a friendly White Scars Infantry unit is within 6" of the bearer, add 1 to Advance and charge rolls made for that unit.|
+. Relic Shield: Description:Each time the bearer suffers a mortal wound, roll a D6; on a 4+, that mortal wound is ignored. Add 1 to armour saving throws made for the bearer.|
+. Rites of Battle: Description:While a friendly <CHAPTER> CORE unit is within 6" of this model, each time a model in that unit makes an attack, re-roll a hit roll of 1|
+. The Vox Espiritum: Description:Primaris model only. Add 3" to the range of the bearer's aura abilities (to a maximum of 9"). This does not increase the range of aura abilities that are psychic powers. |
+. Primaris Chapter Master (Chapter Command:  Chapter Master): M:6"|WS:2+|BS:2+|S:4|T:4|W:6|A:5|Ld:9|Save:3+|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Heavy Bolt Pistol: Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Master-crafted Power Sword: Range:Melee|Type:Melee|S:+1|AP:-3|D:2|Abilities:-|
+
++ Troops +
+
+Assault Intercessor Squad
+. Rules: Angels of Death
+. Abilities: Combat Squads
+. 4x Assault Intercessor: 4x Astartes Chainsword, 4x Frag & Krak grenades, 4x Heavy Bolt Pistol
+. . Unit: Assault Intercessor, Weapon: Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades
+. Assault Intercessor Sgt: Astartes Chainsword, Heavy Bolt Pistol
+. . Unit: Assault Intercessor Sgt, Weapon: Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Assault Intercessor: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+|
+. Assault Intercessor Sgt: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+|
+. Astartes Chainsword: Range:Melee|Type:Melee|S:User|AP:-1|D:1|Abilities:When the bearer fights, it makes 1 additional attack with this weapon. |
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Heavy Bolt Pistol: Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+
+Heavy Intercessor Squad: Hellstorm bolt rifle
+. Rules: Angels of Death
+. Abilities: Combat Squads, Weapon: Hellstorm bolt rifle
+. 4x Heavy Intercessor: 4x Bolt pistol, 4x Frag & Krak grenades
+. . Unit: Heavy Intercessor, Weapon: Bolt pistol, Frag grenades, Krak grenades
+. Heavy Intercessor Sergeant
+. . Unit: Heavy Intercessor Sergeant, Weapon: Bolt pistol, Frag grenades, Krak grenades
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Heavy Intercessor: M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:2|Ld:7|Save:3+|
+. Heavy Intercessor Sergeant: M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:3|Ld:8|Save:3+|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Hellstorm bolt rifle: Range:30"|Type:Assault 3|S:5|AP:0|D:1|Abilities:-|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+
+Incursor Squad
+. Rules: Angels of Death
+. Abilities: Combat Squads, Concealed Positions, Multi-Spectrum Array
+. 4x Incursor: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Occulus bolt carbine, 4x Paired combat blades
+. . Unit: Incursor, Weapon: Bolt pistol, Frag grenades, Krak grenades, Occulus bolt carbine, Paired combat blades
+. Incursor Sergeant
+. . Unit: Incursor Sergeant, Weapon: Bolt pistol, Frag grenades, Krak grenades, Occulus bolt carbine, Paired combat blades
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Concealed Positions: Description:During Deployment when you set up this unit, if every model in this unit has this ability then it can be set up anywhere on the battlefield that is more than 9" away from the enemy deployment zone  and any enemy models|
+. Multi-Spectrum Array: Description:Each time a model in this unit makes a ranged attack, you can ignore any or all hit roll and Ballistic Skill modifiers|
+. Incursor: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+|
+. Incursor Sergeant: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Occulus bolt carbine: Range:24"|Type:Rapid Fire 1|S:4|AP:0|D:1|Abilities:Each time an attack is made with this weapon, the target does not receive the benefits of cover against that attack|
+. Paired combat blades: Range:Melee|Type:Melee|S:User|AP:-1|D:1|Abilities:-|
+
+Infiltrator Squad
+. Rules: Angels of Death
+. Abilities: Combat Squads, Concealed Positions, Infiltrator Comms Array, Omni-scramblers, Unit: Infiltrator
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. . Unit: Infiltrator, Weapon: Bolt pistol, Frag grenades, Krak grenades, Marksman bolt carbine
+. Infiltrator Comms Array
+. . Abilities: Infiltrator Comms Array, Unit: Infiltrator
+. Infiltrator Helix Adept
+. . Abilities: Helix gauntlet, Unit: Infiltrator, Weapon: Bolt pistol, Frag grenades, Krak grenades, Marksman bolt carbine
+. Infiltrator Sergeant
+. . Unit: Infiltrator Sergeant, Weapon: Bolt pistol, Frag grenades, Krak grenades, Marksman bolt carbine
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Concealed Positions: Description:During Deployment when you set up this unit, if every model in this unit has this ability then it can be set up anywhere on the battlefield that is more than 9" away from the enemy deployment zone  and any enemy models|
+. Helix gauntlet: Description:Once per turn, the first time a saving throw is failed for the bearer's unit, the Damage charactertistic of that attack is changed to 0|
+. Infiltrator Comms Array: Description:The bearer's unit is always considered to be within range of the following aura abilities of any friendly <CHAPTER> PHOBOS units that are on the battelfield; Rites of Battle, Tactical Precision|
+. Omni-scramblers: Description:Enemy units that are set up on the battlefield as reinforcements cannot be set up within 12" of this unit.|
+. Infiltrator: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+|
+. Infiltrator Sergeant: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Marksman bolt carbine: Range:24"|Type:Rapid Fire 1|S:4|AP:0|D:1|Abilities:Each unmodified hit roll of 6 made for this weapon's attacks automatically hits and results in a wound (do not make a wound roll for that attack).|
+
+Intercessor Squad: Auto Bolt Rifle
+. Rules: Angels of Death
+. Abilities: Combat Squads, Weapon: Auto Bolt Rifle
+. 4x Intercessor: 4x Bolt pistol, 4x Frag & Krak grenades
+. . Unit: Intercessor, Weapon: Bolt pistol, Frag grenades, Krak grenades
+. Intercessor Sergeant: Power fist
+. . Unit: Intercessor Sergeant, Weapon: Bolt pistol, Frag grenades, Krak grenades, Power fist
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Intercessor: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+|
+. Intercessor Sergeant: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+|
+. Auto Bolt Rifle: Range:24"|Type:Assault 3|S:4|AP:0|D:1|Abilities:-|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Power fist: Range:Melee|Type:Melee|S:x2|AP:-3|D:2|Abilities:Each time an attack is made with this weapon, subtract 1 from that attack’s hit roll.|
+
+Intercessor Squad: Auto Bolt Rifle
+. Rules: Angels of Death
+. Abilities: Combat Squads, Weapon: Auto Bolt Rifle
+. 4x Intercessor: 4x Bolt pistol, 4x Frag & Krak grenades
+. . Unit: Intercessor, Weapon: Bolt pistol, Frag grenades, Krak grenades
+. Intercessor Sergeant: Power fist
+. . Unit: Intercessor Sergeant, Weapon: Bolt pistol, Frag grenades, Krak grenades, Power fist
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Intercessor: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+|
+. Intercessor Sergeant: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+|
+. Auto Bolt Rifle: Range:24"|Type:Assault 3|S:4|AP:0|D:1|Abilities:-|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Power fist: Range:Melee|Type:Melee|S:x2|AP:-3|D:2|Abilities:Each time an attack is made with this weapon, subtract 1 from that attack’s hit roll.|
+
+Intercessor Squad: Auto Bolt Rifle
+. Rules: Angels of Death
+. Abilities: Combat Squads, Weapon: Auto Bolt Rifle
+. 4x Intercessor: 4x Bolt pistol, 4x Frag & Krak grenades
+. . Unit: Intercessor, Weapon: Bolt pistol, Frag grenades, Krak grenades
+. Intercessor Sergeant: Astartes Chainsword
+. . Unit: Intercessor Sergeant, Weapon: Astartes Chainsword, Bolt pistol, Frag grenades, Krak grenades
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Intercessor: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:7|Save:3+|
+. Intercessor Sergeant: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:8|Save:3+|
+. Astartes Chainsword: Range:Melee|Type:Melee|S:User|AP:-1|D:1|Abilities:When the bearer fights, it makes 1 additional attack with this weapon. |
+. Auto Bolt Rifle: Range:24"|Type:Assault 3|S:4|AP:0|D:1|Abilities:-|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+
++ Elites +
+
+Aggressor Squad: 2x Flamestorm Gauntlets, 2x Aggressor, Aggressor Sergeant
+. Rules: Angels of Death
+. Abilities: Combat Squads, Unit: Aggressor, Aggressor Sergeant, Weapon: Flamestorm Gauntlets (Melee), Flamestorm Gauntlets (Shooting)
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Aggressor: M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:3|Ld:7|Save:3+|
+. Aggressor Sergeant: M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:4|Ld:8|Save:3+|
+. Flamestorm Gauntlets (Melee): Range:Melee|Type:Melee|S:x2|AP:-3|D:2|Abilities:When attacking with this weapon, you must subtract 1 from the hit rolls.|
+. Flamestorm Gauntlets (Shooting): Range:12"|Type:Assault D6|S:4|AP:0|D:1|Abilities:This weapon automatically hits its target.|
+
+Bladeguard Veteran Squad
+. Rules: Angels of Death
+. 4x Bladeguard Veteran: 4x Frag & Krak grenades, 4x Heavy Bolt Pistol, 4x Master-crafted Power Sword, 4x Storm Shield
+. . Abilities: Storm shield, Unit: Bladeguard Veteran, Weapon: Frag grenades, Heavy Bolt Pistol, Krak grenades, Master-crafted Power Sword
+. Bladeguard Veteran Sgt: Neo-volkite pistol
+. . Abilities: Storm shield, Unit: Bladeguard Veteran Sgt, Weapon: Frag grenades, Krak grenades, Master-crafted Power Sword, Neo-volkite pistol
+Profiles:
+. Storm shield: Description:The bearer has a 4+ invulnerable save. In addition, add 1 to armour saving throws made for the bearer.|
+. Bladeguard Veteran: M:6"|WS:3+|BS:3+|S:4|T:4|W:3|A:3|Ld:8|Save:3+|
+. Bladeguard Veteran Sgt: M:6"|WS:3+|BS:3+|S:4|T:4|W:3|A:4|Ld:9|Save:3+|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Heavy Bolt Pistol: Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Master-crafted Power Sword: Range:Melee|Type:Melee|S:+1|AP:-3|D:2|Abilities:-|
+. Neo-volkite pistol: Range:15"|Type:Pistol 2|S:5|AP:0|D:2|Abilities:Each unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any other damage|
+
+Company Veterans
+. Rules: Angels of Death
+. Abilities: Bodyguard
+. Space Marine Veteran: Boltgun, Storm shield
+. . Abilities: Storm shield, Unit: Space Marine Veteran, Weapon: Boltgun, Frag grenades, Krak grenades
+. Veteran Sergeant: Boltgun, Storm shield
+. . Abilities: Storm shield, Unit: Veteran Sergeant, Weapon: Boltgun, Frag grenades, Krak grenades
+Profiles:
+. Bodyguard: Description:While a friendly <CHAPTER> CHARACTER unit that has a wounds characteristic of 9 or less is within 3" of this unit, enemy models cannot target that CHARACTER unit with ranged attacks. |
+. Storm shield: Description:The bearer has a 4+ invulnerable save. In addition, add 1 to armour saving throws made for the bearer.|
+. Space Marine Veteran: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:8|Save:3+|
+. Veteran Sergeant: M:6"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:9|Save:3+|
+. Boltgun: Range:24"|Type:Rapid Fire 1|S:4|AP:0|D:1|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+
+Invictor Tactical Warsuit: Twin ironhail autocannon
+. Rules: Angels of Death, Explodes (6"/D3)
+. Abilities: Concealed Positions, Unit: Invictor Tactical Warsuit, Weapon: Fragstorm Grenade Launcher, Heavy bolter, Invictor fist, Twin ironhail autocannon, Twin ironhail heavy stubber, Wound Track: Invictor Tactical Warsuit 1, Invictor Tactical Warsuit 2, Invictor Tactical Warsuit 3
+Profiles:
+. Concealed Positions: Description:During Deployment when you set up this unit, if every model in this unit has this ability then it can be set up anywhere on the battlefield that is more than 9" away from the enemy deployment zone  and any enemy models|
+. Invictor Tactical Warsuit: M:*|WS:*|BS:*|S:7|T:6|W:13|A:4|Ld:8|Save:3+|
+. Fragstorm Grenade Launcher: Range:18"|Type:Assault D6|S:4|AP:0|D:1|Abilities:Blast|
+. Heavy bolter: Range:36"|Type:Heavy 3|S:5|AP:-1|D:2|Abilities:-|
+. Invictor fist: Range:Melee|Type:Melee|S:x2|AP:-3|D:3|Abilities:|
+. Twin ironhail autocannon: Range:48"|Type:Heavy 6|S:7|AP:-1|D:2|Abilities:|
+. Twin ironhail heavy stubber: Range:36"|Type:Heavy 8|S:4|AP:-1|D:1|Abilities:-|
+. Invictor Tactical Warsuit 1: Remaining W:7-13+|Characteristic 1:10"|Characteristic 2:3+|Characteristic 3:3+|
+. Invictor Tactical Warsuit 2: Remaining W:4-6|Characteristic 1:8"|Characteristic 2:4+|Characteristic 3:4+|
+. Invictor Tactical Warsuit 3: Remaining W:1-3|Characteristic 1:6"|Characteristic 2:5+|Characteristic 3:5+|
+
+Judiciar
+. Rules: Angels of Death
+. Abilities: Blade Parry, Tempormortis, Unit: Judiciar, Weapon: Absolver Bolt Pistol, Executioner Relic Blade, Frag grenades, Krak grenades
+Profiles:
+. Blade Parry: Description:This model has a 4+ invulnerable save against melee weapons.|
+. Tempormortis: Description:At the start of each fight phase, select one enemy unit within 3" of this model. That unit cannot fight until all other eligible units have done so that phase|
+. Judiciar: M:6"|WS:2+|BS:3+|S:4|T:4|W:5|A:4|Ld:9|Save:3+|
+. Absolver Bolt Pistol: Range:18"|Type:Pistol 1|S:5|AP:-1|D:2|Abilities:-|
+. Executioner Relic Blade: Range:Melee|Type:Melee|S:+3|AP:-3|D:2|Abilities:Each unmodified wound roll of a 6 inflicts 1 mortal wound on the target in addition to any other damage|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+
+Primaris Apothecary: Chapter Command:  Chief Apothecary, Selfless Healer, Warlord
+. Rules: Angels of Death
+. Abilities: Chief Apothecary, Combat Restoratives, Narthecium [Aura], Selfless Healer, Unit: Primaris Apothecary, Weapon: Absolver Bolt Pistol, Frag grenades, Krak grenades, Reductor Pistol
+Profiles:
+. Chief Apothecary: Description:At the end of your Movement phase this model can use its Combat Restoratives ability twice instead of once. |
+. Combat Restoratives: Description:At the end of your Movement phase, this model can heal one friendly <CHAPTER> INFANTRY or <CHAPTER> BIKER model whose unit is within 3" of it. That model regains up to D3 lost wounds. Each model can only be healed once per turn. |
+. Narthecium [Aura]: Description:While a friendly <CHAPTER> INFANTRY or <CHAPTER> BIKER unit is within 3" of this model, each time a model in that unit would lose a wound, roll one D6; on a 6, that wound is not lost. |
+. Selfless Healer: Description:Each time this WARLORD uses its Combat Restoratives ability, the model being healed regains up to 3 lost wounds instead of D3
+Each time this WARLORD is selected to return a destroyed model to a unit by using the Combat Revival Stratagem, that Stratagem costs 0 command points|
+. Primaris Apothecary: M:6"|WS:3+|BS:3+|S:4|T:4|W:5|A:4|Ld:8|Save:3+|
+. Absolver Bolt Pistol: Range:18"|Type:Pistol 1|S:5|AP:-1|D:2|Abilities:-|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Reductor Pistol: Range:3"|Type:Pistol 1|S:4|AP:-4|D:2|Abilities:-|
+
+Redemptor Dreadnought: 2x Storm Bolters, Heavy Onslaught Gatling Cannon, Icarus Rocket Pod, Onslaught Gatling Cannon
+. Rules: Angels of Death, Explodes (6"/D3)
+. Abilities: Duty Eternal, Unit: Redemptor Dreadnought, Weapon: Heavy Onslaught Gatling Cannon, Icarus Rocket Pod, Onslaught Gatling Cannon, Redemptor Fist, Storm bolter, Wound Track: Redemptor Dreadnought 1, Redemptor Dreadnought 2, Redemptor Dreadnought 3
+Profiles:
+. Duty Eternal: Description:Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack(to a minimum of 1)|
+. Redemptor Dreadnought: M:*|WS:*|BS:*|S:7|T:7|W:13|A:4|Ld:8|Save:3+|
+. Heavy Onslaught Gatling Cannon: Range:30"|Type:Heavy 12|S:6|AP:-1|D:1|Abilities:-|
+. Icarus Rocket Pod: Range:24"|Type:Heavy D3|S:7|AP:-1|D:2|Abilities:Blast. Each time an attack is made with this weapon against an Aircraft unit, add 1 to that attack's hit roll. |
+. Onslaught Gatling Cannon: Range:24"|Type:Heavy 8|S:5|AP:-1|D:1|Abilities:-|
+. Redemptor Fist: Range:Melee|Type:Melee|S:x2|AP:-3|D:D3+3|Abilities:-|
+. Storm bolter: Range:24"|Type:Rapid Fire 2|S:4|AP:0|D:1|Abilities:-|
+. Redemptor Dreadnought 1: Remaining W:7-13+|Characteristic 1:8"|Characteristic 2:3+|Characteristic 3:3+|
+. Redemptor Dreadnought 2: Remaining W:4-6|Characteristic 1:6"|Characteristic 2:4+|Characteristic 3:4+|
+. Redemptor Dreadnought 3: Remaining W:1-3|Characteristic 1:4"|Characteristic 2:5+|Characteristic 3:5+|
+
+Vanguard Veteran Squad: Jump Pack
+. Rules: Angels of Death
+. Abilities: Combat Squads, Death From Above, Unit: Space Marine Veteran (Jump Pack), Veteran Sergeant (Jump Pack)
+. Space Marine Veteran: 2x Lightning Claw
+. . Weapon: Frag grenades, Krak grenades, Lightning claw
+. Space Marine Veteran: 2x Lightning Claw
+. . Weapon: Frag grenades, Krak grenades, Lightning claw
+. Space Marine Veteran: Lightning Claw, Storm shield
+. . Abilities: Storm shield, Weapon: Frag grenades, Krak grenades, Lightning claw
+. Space Marine Veteran: Lightning Claw, Storm shield
+. . Abilities: Storm shield, Weapon: Frag grenades, Krak grenades, Lightning claw
+. Veteran Sergeant: Storm shield, Thunder hammer
+. . Abilities: Storm shield, Weapon: Frag grenades, Krak grenades, Thunder hammer
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Death From Above: Description:During deployment, if every model in this unit has this ability, then you can set up this unit high in the skies instead of setting it up on the battlefield. If you do, then in the Reinforcements step of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" away from enemy models. |
+. Storm shield: Description:The bearer has a 4+ invulnerable save. In addition, add 1 to armour saving throws made for the bearer.|
+. Space Marine Veteran (Jump Pack): M:12"|WS:3+|BS:3+|S:4|T:4|W:2|A:2|Ld:8|Save:3+|
+. Veteran Sergeant (Jump Pack): M:12"|WS:3+|BS:3+|S:4|T:4|W:2|A:3|Ld:9|Save:3+|
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Lightning claw: Range:Melee|Type:Melee|S:User|AP:-2|D:1|Abilities:Each time the bearer fights, it makes 1 additional attack with this weapon. Each time an attack is made with this weapon, you can re-roll the wound roll.|
+. Thunder hammer: Range:Melee|Type:Melee|S:x2|AP:-2|D:3|Abilities:Each time an attack roll is made with this weapon, subtract 1 from the attack's hit roll|
+
++ Fast Attack +
+
+Invader ATV Squad
+. Invader ATV: Multi-melta
+. . Rules: Angels of Death
+. . Abilities: Turbo-boost, Unit: Invader ATV, Weapon: Bolt pistol, Multi-melta, Twin auto bolt rifle
+Profiles:
+. Turbo-boost: Description:When this model Advances, add 6" to its Move characteristic for that Movement phase instead of rolling a dice.|
+. Invader ATV: M:14"|WS:3+|BS:3+|S:4|T:5|W:8|A:4|Ld:7|Save:3+|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Multi-melta: Range:24"|Type:Heavy 2|S:8|AP:-4|D:D6|Abilities:Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2.|
+. Twin auto bolt rifle: Range:24"|Type:Assault 6|S:4|AP:0|D:1|Abilities:-|
+
+Outrider Squad: Outrider Sgt
+. Rules: Angels of Death
+. Abilities: Devastating Charge, Turbo-boost
+. 2x Outrider: 2x Astartes Chainsword, 2x Frag & Krak grenades, 2x Heavy Bolt Pistol, 2x Twin Bolt rifle
+. . Unit: Outrider, Weapon: Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades, Twin Bolt rifle
+Profiles:
+. Devastating Charge: Description:Each time this unit fights, if it made a charge move this turn, then until that fight is resolved, add 2 to the Attacks characteristic of models in this unit|
+. Turbo-boost: Description:When this model Advances, add 6" to its Move characteristic for that Movement phase instead of rolling a dice.|
+. Outrider: M:14"|WS:3+|BS:3+|S:4|T:5|W:4|A:2|Ld:7|Save:3+|
+. Outrider Sgt: M:14"|WS:3+|BS:3+|S:4|T:5|W:4|A:3|Ld:8|Save:3+|
+. Astartes Chainsword: Range:Melee|Type:Melee|S:User|AP:-1|D:1|Abilities:When the bearer fights, it makes 1 additional attack with this weapon. |
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Heavy Bolt Pistol: Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Twin Bolt rifle: Range:30"|Type:Rapid Fire 2|S:4|AP:-1|D:1|Abilities:|
+
+Outrider Squad: Outrider Sgt
+. Rules: Angels of Death
+. Abilities: Devastating Charge, Turbo-boost
+. 2x Outrider: 2x Astartes Chainsword, 2x Frag & Krak grenades, 2x Heavy Bolt Pistol, 2x Twin Bolt rifle
+. . Unit: Outrider, Weapon: Astartes Chainsword, Frag grenades, Heavy Bolt Pistol, Krak grenades, Twin Bolt rifle
+Profiles:
+. Devastating Charge: Description:Each time this unit fights, if it made a charge move this turn, then until that fight is resolved, add 2 to the Attacks characteristic of models in this unit|
+. Turbo-boost: Description:When this model Advances, add 6" to its Move characteristic for that Movement phase instead of rolling a dice.|
+. Outrider: M:14"|WS:3+|BS:3+|S:4|T:5|W:4|A:2|Ld:7|Save:3+|
+. Outrider Sgt: M:14"|WS:3+|BS:3+|S:4|T:5|W:4|A:3|Ld:8|Save:3+|
+. Astartes Chainsword: Range:Melee|Type:Melee|S:User|AP:-1|D:1|Abilities:When the bearer fights, it makes 1 additional attack with this weapon. |
+. Frag grenades: Range:6"|Type:Grenade D6|S:3|AP:0|D:1|Abilities:Blast.|
+. Heavy Bolt Pistol: Range:18"|Type:Pistol 1|S:4|AP:-1|D:1|Abilities:-|
+. Krak grenades: Range:6"|Type:Grenade 1|S:6|AP:-1|D:D3|Abilities:-|
+. Twin Bolt rifle: Range:30"|Type:Rapid Fire 2|S:4|AP:-1|D:1|Abilities:|
+
++ Heavy Support +
+
+Eradicator Squad: Melta rifle
+. Rules: Angels of Death
+. Abilities: Combat Squads, Total Obliteration, Weapon: Melta rifle
+. 2x Eradicator: 2x Bolt pistol
+. . Unit: Eradicator, Weapon: Bolt pistol
+. Eradicator Sgt
+. . Unit: Eradicator Sgt, Weapon: Bolt pistol
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Total Obliteration: Description:In your shooting phase, each time this unit is selected to shoot, if it has not Advanced this turn, it can unleash total obliteration, If it does, select one enemy unit; models in this unit can shoot twice this phase, but they can only make attacks that target that enemy unit(and only if that enemy unit is an eliglbe target for those attacks)|
+. Eradicator: M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:2|Ld:7|Save:3+|
+. Eradicator Sgt: M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:3|Ld:8|Save:3+|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Melta rifle: Range:24"|Type:Assault 1|S:8|AP:-4|D:D6|Abilities:Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2|
+
+Eradicator Squad: Melta rifle
+. Rules: Angels of Death
+. Abilities: Combat Squads, Total Obliteration, Weapon: Melta rifle
+. 2x Eradicator: 2x Bolt pistol
+. . Unit: Eradicator, Weapon: Bolt pistol
+. Eradicator Sgt
+. . Unit: Eradicator Sgt, Weapon: Bolt pistol
+Profiles:
+. Combat Squads: Description:Before any models are deployed at the start of the game, this unit when containing its maximum number of models, may be split into two units each containing an equal number of models.|
+. Total Obliteration: Description:In your shooting phase, each time this unit is selected to shoot, if it has not Advanced this turn, it can unleash total obliteration, If it does, select one enemy unit; models in this unit can shoot twice this phase, but they can only make attacks that target that enemy unit(and only if that enemy unit is an eliglbe target for those attacks)|
+. Eradicator: M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:2|Ld:7|Save:3+|
+. Eradicator Sgt: M:5"|WS:3+|BS:3+|S:4|T:5|W:3|A:3|Ld:8|Save:3+|
+. Bolt pistol: Range:12"|Type:Pistol 1|S:4|AP:0|D:1|Abilities:-|
+. Melta rifle: Range:24"|Type:Assault 1|S:8|AP:-4|D:D6|Abilities:Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2|
+
+Repulsor: 2x Fragstorm Grenade Launchers, 2x Storm Bolters, Heavy Onslaught Gatling Cannon, Icarus Rocket Pod, Ironhail Heavy Stubber, Onslaught Gatling Cannon, Twin lascannon
+. Rules: Angels of Death, Explodes (6"/D6)
+. Abilities: Hover Tank, Transport: Transport, Unit: Repulsor, Weapon: Fragstorm Grenade Launcher, Heavy Onslaught Gatling Cannon, Hunter-slayer missile, Icarus Rocket Pod, Ironhail Heavy Stubber, Krakstorm Grenade Launcher, Onslaught Gatling Cannon, Storm bolter, Twin lascannon, Wound Track: Repulsor 1, Repulsor 2, Repulsor 3
+Profiles:
+. Hover Tank: Description:Distances and ranges are always measured to and from this model's hull even though it has a base.|
+. Transport: Capacity:This model can transport 10 CHAPTER PRIMARIS INFANTRY models. Each MK X GRAVIS model takes up the space of 2 other models. It cannot transport JUMP PACK models.|
+. Repulsor: M:*|WS:6+|BS:*|S:8|T:8|W:16|A:*|Ld:9|Save:3+|
+. Fragstorm Grenade Launcher: Range:18"|Type:Assault D6|S:4|AP:0|D:1|Abilities:Blast|
+. Heavy Onslaught Gatling Cannon: Range:30"|Type:Heavy 12|S:6|AP:-1|D:1|Abilities:-|
+. Hunter-slayer missile: Range:48"|Type:Heavy 1|S:10|AP:-2|D:D6|Abilities:The bearer can only shoot with each hunter-slayer missile it is equipped with once per battle. This weapon can target units that are not visible to the bearer|
+. Icarus Rocket Pod: Range:24"|Type:Heavy D3|S:7|AP:-1|D:2|Abilities:Blast. Each time an attack is made with this weapon against an Aircraft unit, add 1 to that attack's hit roll. |
+. Ironhail Heavy Stubber: Range:36"|Type:Heavy 4|S:4|AP:-1|D:1|Abilities:-|
+. Krakstorm Grenade Launcher: Range:18"|Type:Assault 1|S:6|AP:-1|D:D3|Abilities:-|
+. Onslaught Gatling Cannon: Range:24"|Type:Heavy 8|S:5|AP:-1|D:1|Abilities:-|
+. Storm bolter: Range:24"|Type:Rapid Fire 2|S:4|AP:0|D:1|Abilities:-|
+. Twin lascannon: Range:48"|Type:Heavy 2|S:9|AP:-3|D:D6|Abilities:-|
+. Repulsor 1: Remaining W:9-16+|Characteristic 1:10"|Characteristic 2:3+|Characteristic 3:6|
+. Repulsor 2: Remaining W:5-8|Characteristic 1:5"|Characteristic 2:4+|Characteristic 3:D6|
+. Repulsor 3: Remaining W:1-4|Characteristic 1:3"|Characteristic 2:5+|Characteristic 3:D3|
+
++ Dedicated Transport +
+
+Impulsor: 2x Storm Bolters, Shield Dome
+. Rules: Angels of Death, Explodes (6"/D3)
+. Abilities: Assault Vehicle, Hover Tank, Shield Dome, Transport: Transport, Unit: Impulsor, Weapon: Storm bolter, Wound Track: Impulsor Wound Track 1, Impulsor Wound Track 2, Impulsor Wound Track 3
+Profiles:
+. Assault Vehicle: Description:Units embarked within this transport can disembark even if it has made  a Normal Move this phase. Any unit that disembarks after this transport has made a Normal Move cannot charge this turn. |
+. Hover Tank: Description:Distances and ranges are always measured to and from this model's hull even though it has a base.|
+. Shield Dome: Description:A model with a shield dome has a 5+ invulnerable save.|
+. Transport: Capacity:This model has a transport capacity of 6 <CHAPTER> PRIMARIS INFANTRY models. It cannot transport JUMP PACK or MK X GRAVIS models.|
+. Impulsor: M:*|WS:6+|BS:*|S:7|T:7|W:11|A:*|Ld:8|Save:3+|
+. Storm bolter: Range:24"|Type:Rapid Fire 2|S:4|AP:0|D:1|Abilities:-|
+. Impulsor Wound Track 1: Remaining W:6+|Characteristic 1:14"|Characteristic 2:3+|Characteristic 3:3|
+. Impulsor Wound Track 2: Remaining W:3-5|Characteristic 1:7"|Characteristic 2:4+|Characteristic 3:D3|
+. Impulsor Wound Track 3: Remaining W:1-2|Characteristic 1:4"|Characteristic 2:5+|Characteristic 3:1|
+
+++ Roster Rules ++
+
+. Angels of Death: This unit has the following abilities: And They Shall Know No Fear, Bolter Discipline, Shock Assault and Combat Doctrines. ()
+
+. Bolter Discipline: Instead of following the normal rules for Rapid Fire weapons, models in this unit shooting Rapid Fire bolt weapons make double the number of attacks if any of the following apply
 
 - The shooting model's target is within half the weapon's range
 - The shooting model is Infantry (excluding Centurion models) and it's unit Remained Stationary in your previous Movement Phase.
 - The shooting model is a Terminator or Biker
 
-For the purposes of this ability, a Rapid Fire bolt weapon is any bolt weapon (see page 195) with the Rapid Fire type.
+For the purposes of this ability, a Rapid Fire bolt weapon is any bolt weapon (see page 195) with the Rapid Fire type.  ()
 
-. **Shock Assault:** Each time this unit fights if it made a charge move, was charged or performed a Heroic Intervention this turn, then until that fight is resolved, add 1 to the Attacks characteristic of models in this unit.
+. Shock Assault: Each time this unit fights if it made a charge move, was charged or performed a Heroic Intervention this turn, then until that fight is resolved, add 1 to the Attacks characteristic of models in this unit.  ()
 
-&nbsp;
+++ Selection Rules ++
 
-**++ Selection Rules ++**
+. Angels of Death: This unit has the following abilities: And They Shall Know No Fear, Bolter Discipline, Shock Assault and Combat Doctrines. ()
 
+. Explodes (6"/D3): When this model is destroyed, roll one D6 before removing it from play. On a 6 it explodes and each unit within 6" suffers D3 mortal wounds.  ()
 
-. **Angels of Death:** This unit has the following abilities: And They Shall Know No Fear, Bolter Discipline, Shock Assault and Combat Doctrines.
+. Explodes (6"/D6): When this model is destroyed, roll one D6 before removing it from play. On a 6 it explodes and each unit within 6" suffers D6 mortal wounds. ()
 
-. **Explodes (6"/D3):** When this model is destroyed, roll one D6 before removing it from play. On a 6 it explodes and each unit within 6" suffers D3 mortal wounds.
+. Lightning Assault: Units with this tactic can charge in a turn in which they Advanced or Fell Back. Models with this tactic do not suffer the penalty for Advancing and firing Assault weapons ()
 
-. **Lightning Assault:** Units with this tactic can charge in a turn in which they Advanced or Fell Back. Models with this tactic do not suffer the penalty for Advancing and firing Assault weapons
-
-&nbsp;
-
-Created with [BattleScribe](https://www.battlescribe.net)
-
-
-
-Parse from battlescribe to typescript (40k-reminders):
-
-Units//
-Format includes:
-
-Const effects shared across a number of units (weapons, "explode" etc). Format sample:
-
-const WindriderEffect = {
-  name: `Windrider`,
-  desc: `When a friendly STORMCAST ETERNAL unit within 9" of this model uses their Ride the Winds Aetheric ability, this model can follow in their wake if it has not already made a move in that movement phase. If it does so, immediately move this model up to the distance moved by the unit they are following. This model must end that move within 9" of the unit it is following and more than 3" from any enemy models. If this model uses this ability, it cannot move in that movement phase, and cannot make a charge move later in the same turn.`,
-  when: [MOVEMENT_PHASE],
-  }
-
-This corresponds to **++ Selection Rules ++** at the end of a BS export
+Created with BattleScribe (https://battlescribe.net)

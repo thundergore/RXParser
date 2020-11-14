@@ -6,7 +6,7 @@ def get_filename(filename):
     with open(filename) as f:
         return f.read()
 
-pattern = r'.+\*(.+):.+\sDescription:(.+)'
+pattern = r'\.\s(.+):\sDescription:(.+)'
 # other patterns to parse with:
 
 # Valid for space_marine_cat.txt:
@@ -20,7 +20,7 @@ pattern = r'.+\*(.+):.+\sDescription:(.+)'
 # 'name=("[^\d{3}].+?")\shidden="false"\stypeId="' Finds 606 "typename=Unit" results
 
 #Valid for Space Marie Extraction.txt:
-# '.+\*(.+):.+\sDescription:(.+)' Should find ability name as group 1 and decription text as group 2
+# '\.\s(.+):\sDescription:(.+)' Should find ability name as group 1 and decription text as group 2
 
 subject = get_filename('Space Marine Extraction.txt')
 regex = re.compile(pattern)
