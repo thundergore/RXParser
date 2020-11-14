@@ -68,12 +68,12 @@ wrappedregex = re.compile(wrappedpattern)
 matches = wrappedregex.findall(subject)
 if len(matches)>0:
 	for match in matches:
-	    print ("--- Start of Match ---")
+	    print ("{")
 	    #print ("Overall Match: ",match[0])
-	    print ("Group 1: ",match[1])
-	    print ("Group 2: ",match[2])
+	    print ("  name: `",match[1],"`,")
+	    print ("  desc: `",match[2],"`,")
 	    #print ("Group 3: ",match[3])
-	    print ("--- End of Match---\n")
+	    print ("  when: [add_phase],\n},")
 
 # Task 5: Replace the matches
 # simple replacement: reverse group
